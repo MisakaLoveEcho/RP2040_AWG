@@ -55,3 +55,7 @@
 
 6. 效果展示
    ![1](https://github.com/MisakaLoveEcho/RP2040_AWG/blob/main/photos/1.jpg)
+   ![2](https://github.com/MisakaLoveEcho/RP2040_AWG/blob/main/photos/2.jpg)
+   ![3](https://github.com/MisakaLoveEcho/RP2040_AWG/blob/main/photos/3.jpg)
+   ![4](https://github.com/MisakaLoveEcho/RP2040_AWG/blob/main/photos/4.jpg)
+   ![5](https://github.com/MisakaLoveEcho/RP2040_AWG/blob/main/photos/5.jpg)
