@@ -52,3 +52,6 @@
 
 - 只有LED闪烁才说明程序在正常运行，LED超过10s不闪说明卡住了，要手动复位
 - 遇到超频导致无法下载代码时，使用烧录固件的方法，将文件夹下清除flash的固件(pico-erase-flash_nuke_Flash擦除-解决Pico假死.uf2)先下载，过一会再下载系统固件(RPI_PICO-20250415-v1.25.0.uf2)，然后就可以再次下载代码了
+
+6. 效果展示
+   ![1](https://github.com/MisakaLoveEcho/RP2040_AWG/blob/main/photos/1.jpg)
